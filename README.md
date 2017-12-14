@@ -8,7 +8,7 @@ Collection of popular nepali fonts for the linux
 ### Archlinux
 If you're on arch linux, use your favorite AUR helper to install this package.
 
-https://aur.archlinux.org/packages/ttf-nepali-http://www.nepali.info/nepali/fonts/fonts/
+https://aur.archlinux.org/packages/ttf-nepali-fonts/
 
 This will build from the latest commit on the "master" branch.
 
